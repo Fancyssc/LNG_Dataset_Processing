@@ -4,8 +4,8 @@ import os
 
 def convert_to_labeledcsv():
     cwd = os.getcwd()
-    path1 = cwd + "/DataSet/lng2.csv"
-    path2 = cwd + "/DataSet/temp.csv"
+    path1 = cwd + "/data/lng2.csv"
+    path2 = cwd + "/data/temp.csv"
 
     content = open(path1)
     with open(path2,"w") as f:
@@ -22,8 +22,8 @@ def convert_to_labeledcsv():
 def preprocess():
     # 读取原始CSV文件
     cwd = os.getcwd()
-    path1 = cwd + "/DataSet/temp.csv"
-    path2 = cwd + "/DataSet/filter_lng.csv"
+    path1 = cwd + "/data/temp.csv"
+    path2 = cwd + "/data/filter_lng.csv"
     df = pd.read_csv(path1)
 
     # 筛选速度小于1节并且吃水大于0的数据

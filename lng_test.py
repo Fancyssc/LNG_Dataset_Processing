@@ -10,7 +10,7 @@ if __name__ == '__main__':
     # convert_to_labeledcsv()
     # preprocess()
     cwd = os.getcwd()
-    path1 = cwd + "/DataSet/filter_lng.csv"
+    path1 = cwd + "/data/filter_lng.csv"
     data_loader = CSVDataLoader(path1)
     data = data_loader.load_csv()
     start = time.time()
