@@ -7,9 +7,9 @@ class CSVDataLoader:
 
     def load_csv(self):
         df = pd.read_csv(self.filename)
-        data_array =np.array(df[['longitude','latitude']], dtype=np.float32)
+        data_array =np.array(df[['longitude','latitude','draft']], dtype=np.float16)
         for i in range(len(df)):
-            data_array[i] = np.array([df['longitude'][i], df['latitude'][i]],dtype=np.float32)
+            data_array[i] = np.array([df['longitude'][i], df['latitude'][i], df['draft'][i]],dtype=np.float16)
 
         return data_array
 
