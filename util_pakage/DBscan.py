@@ -1,3 +1,4 @@
+import pickle
 import sys
 import os
 import time
@@ -26,6 +27,16 @@ def dbscan():
     clusters = dbscan_.fit_predict(data)
     end = time.time()
     print("dbscan time: ",end - start)
+
+    # 将模型保存到文件
+    with open('DBSCAN_model.pkl', 'wb') as f:
+        pickle.dump(clusters, f)
+    print("Kmeans_time:",end-start)
+
+
+    # 加载保存的模型
+    with open('DBSCAN_model.pkl', 'rb') as f:
+        clusters = pickle.load(f)
 
     # 打印聚类结果
     print("聚类结果:", set(clusters))
