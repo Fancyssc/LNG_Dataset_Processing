@@ -17,8 +17,8 @@ def dbscan():
     data = data_loader.load_csv()
 
     # 设置DBSCAN参数
-    epsilon = 0.01  # 两个样本之间被视为邻居的最大距离
-    min_samples = 500  # 形成核心点所需的最小邻居样本数
+    epsilon = 0.1  # 两个样本之间被视为邻居的最大距离
+    min_samples = 5  # 形成核心点所需的最小邻居样本数
 
     # 创建DBSCAN对象并拟合数据
     print("start dbscan")
@@ -33,11 +33,10 @@ def dbscan():
         pickle.dump(clusters, f)
     print("Kmeans_time:",end-start)
 
-#
-#     # 加载保存的模型
-#     with open('DBSCAN_model.pkl', 'rb') as f:
-#         clusters = pickle.load(f)
-#
+
+    # 加载保存的模型
+    with open('DBSCAN_model.pkl', 'rb') as f:
+        clusters = pickle.load(f)
 
     # 打印聚类结果
     print("聚类结果:", set(clusters))

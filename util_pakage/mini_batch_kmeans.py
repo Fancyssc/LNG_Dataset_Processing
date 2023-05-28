@@ -23,13 +23,13 @@ def mini_batch_kmeans():
 
     start = time.time()
     print("start")
-    clustering_mini_batch_kmeans = MiniBatchKMeans(n_clusters=400, init='random', verbose=1, max_iter=30).fit(data)
+    clustering_mini_batch_kmeans = MiniBatchKMeans(n_clusters=1600, init='random', verbose=1, max_iter=30).fit(data)
     end = time.time()
 
 
 
     # 将模型保存到文件
-    with open('mini_batch_kmeans_model_400.pkl', 'wb') as f:
+    with open('mini_batch_kmeans_model_1600.pkl', 'wb') as f:
         pickle.dump(clustering_mini_batch_kmeans, f)
     print("Mini-Batch K-means time:", end - start)
 
