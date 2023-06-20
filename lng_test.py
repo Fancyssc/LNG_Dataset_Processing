@@ -9,6 +9,6 @@ from util_pakage.K_means import k_means
 from util_pakage.DBscan import dbscan
 from util_pakage.mini_batch_kmeans import mini_batch_kmeans
 
-#k_means()
+k_means()
 #dbscan()
-mini_batch_kmeans()
+#mini_batch_kmeans()

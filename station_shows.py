@@ -10,7 +10,7 @@ sys.path.append(".")
 m = folium.Map()
 cwd = os.getcwd()
 
-with open('kmeans_model.pkl', 'rb') as f:
+with open('mini_batch_kmeans_model_1600.pkl', 'rb') as f:
     clustering_kmeans = pickle.load(f)
 
 print(clustering_kmeans.cluster_centers_)
