@@ -1,0 +1,5602 @@
+[
+    {
+        "code": 1,
+        "latitude": "51.774185",
+        "longitude": "25.839771",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 2,
+        "latitude": "121.930786",
+        "longitude": "38.924805",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 3,
+        "latitude": "-148.754044",
+        "longitude": "41.956257",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 4,
+        "latitude": "21.097837",
+        "longitude": "55.725037",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 5,
+        "latitude": "-8.661339",
+        "longitude": "43.814491",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 6,
+        "latitude": "113.293121",
+        "longitude": "21.826071",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 7,
+        "latitude": "3.215893",
+        "longitude": "51.353668",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 8,
+        "latitude": "101.915298",
+        "longitude": "2.370798",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 9,
+        "latitude": "-79.911850",
+        "longitude": "9.266930",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 10,
+        "latitude": "133.681808",
+        "longitude": "11.821167",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 11,
+        "latitude": "51.808918",
+        "longitude": "25.839520",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 12,
+        "latitude": "48.160889",
+        "longitude": "29.073101",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 13,
+        "latitude": "59.424610",
+        "longitude": "22.670263",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 14,
+        "latitude": "51.561447",
+        "longitude": "26.821350",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 15,
+        "latitude": "34.707539",
+        "longitude": "-25.861355",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 16,
+        "latitude": "103.649574",
+        "longitude": "1.218430",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 17,
+        "latitude": "115.173615",
+        "longitude": "-8.460459",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 18,
+        "latitude": "51.599525",
+        "longitude": "25.933064",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 19,
+        "latitude": "14.795019",
+        "longitude": "35.904488",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 20,
+        "latitude": "142.732452",
+        "longitude": "46.392769",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 21,
+        "latitude": "51.794399",
+        "longitude": "25.823467",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 22,
+        "latitude": "25.706915",
+        "longitude": "39.162529",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 23,
+        "latitude": "101.905685",
+        "longitude": "2.378050",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 24,
+        "latitude": "8.586391",
+        "longitude": "-14.480885",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 25,
+        "latitude": "103.723763",
+        "longitude": "1.163246",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 26,
+        "latitude": "165.602234",
+        "longitude": "71.925644",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 27,
+        "latitude": "51.789440",
+        "longitude": "25.859581",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 28,
+        "latitude": "51.793526",
+        "longitude": "25.821075",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 29,
+        "latitude": "-70.374939",
+        "longitude": "-23.050701",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 30,
+        "latitude": "9.834095",
+        "longitude": "44.075935",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 31,
+        "latitude": "52.408371",
+        "longitude": "26.065948",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 32,
+        "latitude": "32.249882",
+        "longitude": "31.683111",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 33,
+        "latitude": "37.931801",
+        "longitude": "-30.105995",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 34,
+        "latitude": "103.822067",
+        "longitude": "1.465502",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 35,
+        "latitude": "48.160820",
+        "longitude": "29.072830",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 36,
+        "latitude": "52.935699",
+        "longitude": "25.084724",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 37,
+        "latitude": "56.688080",
+        "longitude": "24.594494",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 38,
+        "latitude": "8.739113",
+        "longitude": "-15.644028",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 39,
+        "latitude": "128.715073",
+        "longitude": "34.871162",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 40,
+        "latitude": "14.129959",
+        "longitude": "54.251118",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 41,
+        "latitude": "130.776245",
+        "longitude": "33.932755",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 42,
+        "latitude": "151.174850",
+        "longitude": "-23.767460",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 43,
+        "latitude": "-148.754089",
+        "longitude": "41.956291",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 44,
+        "latitude": "116.059158",
+        "longitude": "6.099450",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 45,
+        "latitude": "51.807941",
+        "longitude": "25.808979",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 46,
+        "latitude": "104.405624",
+        "longitude": "1.581141",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 47,
+        "latitude": "104.158470",
+        "longitude": "1.304028",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 48,
+        "latitude": "128.702896",
+        "longitude": "34.878578",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 49,
+        "latitude": "103.706505",
+        "longitude": "1.174276",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 50,
+        "latitude": "144.174515",
+        "longitude": "13.728803",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 51,
+        "latitude": "101.844940",
+        "longitude": "2.359997",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 52,
+        "latitude": "114.440048",
+        "longitude": "4.749496",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 53,
+        "latitude": "121.880295",
+        "longitude": "32.339199",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 54,
+        "latitude": "117.595947",
+        "longitude": "0.016420",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 55,
+        "latitude": "-52.099117",
+        "longitude": "5.111427",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 56,
+        "latitude": "7.131927",
+        "longitude": "4.430916",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 57,
+        "latitude": "-148.604950",
+        "longitude": "41.923943",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 58,
+        "latitude": "127.791077",
+        "longitude": "34.883110",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 59,
+        "latitude": "144.174301",
+        "longitude": "13.729388",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 60,
+        "latitude": "-50.640011",
+        "longitude": "41.449749",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 61,
+        "latitude": "77.487389",
+        "longitude": "10.759429",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 62,
+        "latitude": "128.777908",
+        "longitude": "34.859028",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 63,
+        "latitude": "51.873543",
+        "longitude": "25.839577",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 64,
+        "latitude": "142.905823",
+        "longitude": "46.584808",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 65,
+        "latitude": "-5.370461",
+        "longitude": "36.115471",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 66,
+        "latitude": "51.865974",
+        "longitude": "25.788410",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 67,
+        "latitude": "119.024979",
+        "longitude": "25.135811",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 68,
+        "latitude": "121.465256",
+        "longitude": "32.553020",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 69,
+        "latitude": "51.790703",
+        "longitude": "25.877958",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 70,
+        "latitude": "103.758408",
+        "longitude": "1.176434",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 71,
+        "latitude": "141.208435",
+        "longitude": "43.187416",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 72,
+        "latitude": "139.166672",
+        "longitude": "37.954247",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 73,
+        "latitude": "117.716339",
+        "longitude": "38.753735",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 74,
+        "latitude": "-148.604950",
+        "longitude": "41.923950",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 75,
+        "latitude": "48.211296",
+        "longitude": "29.074642",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 76,
+        "latitude": "-79.525711",
+        "longitude": "8.840007",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 77,
+        "latitude": "103.706085",
+        "longitude": "1.177250",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 78,
+        "latitude": "-116.851028",
+        "longitude": "31.985161",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 79,
+        "latitude": "-27.980251",
+        "longitude": "-13.009647",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 80,
+        "latitude": "-77.092392",
+        "longitude": "17.842972",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 81,
+        "latitude": "51.893425",
+        "longitude": "25.825760",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 82,
+        "latitude": "51.772045",
+        "longitude": "25.858707",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 83,
+        "latitude": "-8.857502",
+        "longitude": "37.935104",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 84,
+        "latitude": "-93.734940",
+        "longitude": "29.574188",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 85,
+        "latitude": "-91.604172",
+        "longitude": "24.767517",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 86,
+        "latitude": "103.685898",
+        "longitude": "1.192062",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 87,
+        "latitude": "48.160851",
+        "longitude": "29.072948",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 88,
+        "latitude": "121.451553",
+        "longitude": "31.592449",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 89,
+        "latitude": "-43.015148",
+        "longitude": "-22.751175",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 90,
+        "latitude": "128.953690",
+        "longitude": "34.488575",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 91,
+        "latitude": "-79.484756",
+        "longitude": "8.828171",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 92,
+        "latitude": "104.064857",
+        "longitude": "1.202559",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 93,
+        "latitude": "-0.638531",
+        "longitude": "35.762512",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 94,
+        "latitude": "2.539825",
+        "longitude": "-1.005949",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 95,
+        "latitude": "103.690201",
+        "longitude": "1.183403",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 96,
+        "latitude": "128.566223",
+        "longitude": "34.949238",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 97,
+        "latitude": "51.790432",
+        "longitude": "25.839453",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 98,
+        "latitude": "6.948009",
+        "longitude": "36.923233",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 99,
+        "latitude": "103.712990",
+        "longitude": "1.171129",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 100,
+        "latitude": "128.709534",
+        "longitude": "34.889297",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 101,
+        "latitude": "107.004616",
+        "longitude": "6.457943",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 102,
+        "latitude": "-148.598633",
+        "longitude": "41.924309",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 103,
+        "latitude": "51.877747",
+        "longitude": "25.821365",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 104,
+        "latitude": "129.733124",
+        "longitude": "32.990429",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 105,
+        "latitude": "165.730225",
+        "longitude": "71.901680",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 106,
+        "latitude": "5.577518",
+        "longitude": "58.924759",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 107,
+        "latitude": "34.708000",
+        "longitude": "-25.860355",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 108,
+        "latitude": "130.847534",
+        "longitude": "-12.525562",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 109,
+        "latitude": "144.365021",
+        "longitude": "13.519123",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 110,
+        "latitude": "107.086967",
+        "longitude": "10.180407",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 111,
+        "latitude": "-148.747925",
+        "longitude": "41.949829",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 112,
+        "latitude": "-132.034317",
+        "longitude": "36.339870",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 113,
+        "latitude": "51.875057",
+        "longitude": "25.856068",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 114,
+        "latitude": "-0.206165",
+        "longitude": "39.629147",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 115,
+        "latitude": "26.906422",
+        "longitude": "38.792496",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 116,
+        "latitude": "32.561123",
+        "longitude": "29.780869",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 117,
+        "latitude": "103.709778",
+        "longitude": "1.168518",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 118,
+        "latitude": "-95.306808",
+        "longitude": "28.939276",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 119,
+        "latitude": "-79.958847",
+        "longitude": "9.466739",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 120,
+        "latitude": "51.876766",
+        "longitude": "25.837534",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 121,
+        "latitude": "51.892319",
+        "longitude": "25.804531",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 122,
+        "latitude": "154.279831",
+        "longitude": "75.520096",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 123,
+        "latitude": "51.809601",
+        "longitude": "25.822109",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 124,
+        "latitude": "144.873795",
+        "longitude": "4.246185",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 125,
+        "latitude": "142.685440",
+        "longitude": "46.397186",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 126,
+        "latitude": "103.675011",
+        "longitude": "1.297489",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 127,
+        "latitude": "-2.400566",
+        "longitude": "50.601746",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 128,
+        "latitude": "138.499405",
+        "longitude": "35.023247",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 129,
+        "latitude": "130.668625",
+        "longitude": "-12.256687",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 130,
+        "latitude": "126.780670",
+        "longitude": "36.999771",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 131,
+        "latitude": "51.856300",
+        "longitude": "25.846577",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 132,
+        "latitude": "83.748085",
+        "longitude": "73.982262",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 133,
+        "latitude": "-96.776581",
+        "longitude": "14.667050",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 134,
+        "latitude": "52.954567",
+        "longitude": "25.099739",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 135,
+        "latitude": "51.776943",
+        "longitude": "25.839001",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 136,
+        "latitude": "51.857357",
+        "longitude": "25.854942",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 137,
+        "latitude": "114.126816",
+        "longitude": "22.134142",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 138,
+        "latitude": "127.785568",
+        "longitude": "34.752346",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 139,
+        "latitude": "23.578445",
+        "longitude": "37.779907",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 140,
+        "latitude": "120.150375",
+        "longitude": "22.826481",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 141,
+        "latitude": "51.607201",
+        "longitude": "25.934183",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 142,
+        "latitude": "51.811867",
+        "longitude": "25.838833",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 143,
+        "latitude": "51.856903",
+        "longitude": "25.822449",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 144,
+        "latitude": "66.811722",
+        "longitude": "24.161966",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 145,
+        "latitude": "103.818947",
+        "longitude": "1.462381",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 146,
+        "latitude": "51.878361",
+        "longitude": "25.840281",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 147,
+        "latitude": "34.707634",
+        "longitude": "-25.861134",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 148,
+        "latitude": "-116.851074",
+        "longitude": "31.985126",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 149,
+        "latitude": "35.241871",
+        "longitude": "36.217392",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 150,
+        "latitude": "51.855873",
+        "longitude": "25.809345",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 151,
+        "latitude": "94.586929",
+        "longitude": "76.609039",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 152,
+        "latitude": "-79.951355",
+        "longitude": "9.405959",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 153,
+        "latitude": "103.631073",
+        "longitude": "1.149193",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 154,
+        "latitude": "104.916283",
+        "longitude": "77.843552",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 155,
+        "latitude": "-70.873032",
+        "longitude": "-53.177456",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 156,
+        "latitude": "120.201752",
+        "longitude": "22.811806",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 157,
+        "latitude": "103.760979",
+        "longitude": "1.181143",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 158,
+        "latitude": "115.710068",
+        "longitude": "-32.207596",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 159,
+        "latitude": "121.730087",
+        "longitude": "31.330126",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 160,
+        "latitude": "-61.647961",
+        "longitude": "10.701131",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 161,
+        "latitude": "37.395378",
+        "longitude": "22.319710",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 162,
+        "latitude": "72.173965",
+        "longitude": "21.314548",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 163,
+        "latitude": "0.225311",
+        "longitude": "36.989082",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 164,
+        "latitude": "103.684982",
+        "longitude": "1.187836",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 165,
+        "latitude": "-96.756500",
+        "longitude": "27.813339",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 166,
+        "latitude": "121.433960",
+        "longitude": "32.552177",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 167,
+        "latitude": "-0.258366",
+        "longitude": "35.815830",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 168,
+        "latitude": "141.527679",
+        "longitude": "40.561035",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 169,
+        "latitude": "-15.393948",
+        "longitude": "28.141247",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 170,
+        "latitude": "34.708134",
+        "longitude": "-25.892189",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 171,
+        "latitude": "139.738449",
+        "longitude": "35.469894",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 172,
+        "latitude": "51.793079",
+        "longitude": "25.855824",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 173,
+        "latitude": "51.774769",
+        "longitude": "25.824369",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 174,
+        "latitude": "-4.485901",
+        "longitude": "48.349152",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 175,
+        "latitude": "24.953485",
+        "longitude": "34.880215",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 176,
+        "latitude": "54.043289",
+        "longitude": "15.199580",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 177,
+        "latitude": "104.916107",
+        "longitude": "77.843567",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 178,
+        "latitude": "43.934586",
+        "longitude": "13.599566",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 179,
+        "latitude": "12.591032",
+        "longitude": "45.085350",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 180,
+        "latitude": "10.544914",
+        "longitude": "55.584335",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 181,
+        "latitude": "51.611702",
+        "longitude": "25.932423",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 182,
+        "latitude": "151.460724",
+        "longitude": "-23.836193",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 183,
+        "latitude": "-148.753967",
+        "longitude": "41.956104",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 184,
+        "latitude": "-116.851074",
+        "longitude": "31.985054",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 185,
+        "latitude": "-27.982250",
+        "longitude": "-13.004398",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 186,
+        "latitude": "128.717529",
+        "longitude": "34.878307",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 187,
+        "latitude": "128.437149",
+        "longitude": "34.949623",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 188,
+        "latitude": "7.146690",
+        "longitude": "4.423773",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 189,
+        "latitude": "126.780716",
+        "longitude": "36.999519",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 190,
+        "latitude": "-25.129307",
+        "longitude": "41.627529",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 191,
+        "latitude": "-95.231995",
+        "longitude": "28.817640",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 192,
+        "latitude": "115.710251",
+        "longitude": "-32.207417",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 193,
+        "latitude": "51.860069",
+        "longitude": "25.839251",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 194,
+        "latitude": "116.760513",
+        "longitude": "-20.590794",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 195,
+        "latitude": "139.969666",
+        "longitude": "35.473709",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 196,
+        "latitude": "31.128855",
+        "longitude": "-29.858791",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 197,
+        "latitude": "116.763412",
+        "longitude": "-20.587997",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 198,
+        "latitude": "-93.859573",
+        "longitude": "29.743437",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 199,
+        "latitude": "-16.196915",
+        "longitude": "28.485601",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 200,
+        "latitude": "128.716415",
+        "longitude": "34.874191",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 201,
+        "latitude": "-79.845291",
+        "longitude": "9.484776",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 202,
+        "latitude": "-71.545502",
+        "longitude": "-32.872959",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 203,
+        "latitude": "117.063690",
+        "longitude": "-20.192898",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 204,
+        "latitude": "128.438278",
+        "longitude": "34.948254",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 205,
+        "latitude": "-95.120590",
+        "longitude": "28.684839",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 206,
+        "latitude": "126.352676",
+        "longitude": "34.734833",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 207,
+        "latitude": "51.617115",
+        "longitude": "25.933531",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 208,
+        "latitude": "122.918549",
+        "longitude": "30.746616",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 209,
+        "latitude": "55.215359",
+        "longitude": "-20.939445",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 210,
+        "latitude": "56.531998",
+        "longitude": "25.271149",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 211,
+        "latitude": "-97.271591",
+        "longitude": "27.880466",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 212,
+        "latitude": "55.215370",
+        "longitude": "-20.939480",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 213,
+        "latitude": "51.810070",
+        "longitude": "25.861593",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 214,
+        "latitude": "-79.488556",
+        "longitude": "8.812347",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 215,
+        "latitude": "103.632698",
+        "longitude": "1.137020",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 216,
+        "latitude": "-4.462585",
+        "longitude": "48.382877",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 217,
+        "latitude": "51.859798",
+        "longitude": "25.804592",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 218,
+        "latitude": "10.350178",
+        "longitude": "38.088264",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 219,
+        "latitude": "55.215385",
+        "longitude": "-20.939518",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 220,
+        "latitude": "-116.851059",
+        "longitude": "31.985136",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 221,
+        "latitude": "-80.934357",
+        "longitude": "32.063248",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 222,
+        "latitude": "55.269760",
+        "longitude": "25.252638",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 223,
+        "latitude": "126.588211",
+        "longitude": "37.337807",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 224,
+        "latitude": "51.862473",
+        "longitude": "25.840223",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 225,
+        "latitude": "32.582996",
+        "longitude": "29.752909",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 226,
+        "latitude": "51.810127",
+        "longitude": "25.805422",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 227,
+        "latitude": "10.289738",
+        "longitude": "59.147827",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 228,
+        "latitude": "103.731400",
+        "longitude": "1.156694",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 229,
+        "latitude": "-94.613251",
+        "longitude": "28.661732",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 230,
+        "latitude": "103.207550",
+        "longitude": "1.345688",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 231,
+        "latitude": "122.275726",
+        "longitude": "30.072037",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 232,
+        "latitude": "12.406368",
+        "longitude": "-6.635365",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 233,
+        "latitude": "116.032867",
+        "longitude": "6.097428",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 234,
+        "latitude": "-5.024323",
+        "longitude": "50.040432",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 235,
+        "latitude": "103.671532",
+        "longitude": "1.204359",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 236,
+        "latitude": "51.871731",
+        "longitude": "25.827480",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 237,
+        "latitude": "-8.890553",
+        "longitude": "37.874313",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 238,
+        "latitude": "-9.596283",
+        "longitude": "38.686806",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 239,
+        "latitude": "43.190037",
+        "longitude": "-11.673107",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 240,
+        "latitude": "122.782639",
+        "longitude": "29.678135",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 241,
+        "latitude": "51.811161",
+        "longitude": "25.843512",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 242,
+        "latitude": "-62.166866",
+        "longitude": "-38.864342",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 243,
+        "latitude": "51.852882",
+        "longitude": "25.841532",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 244,
+        "latitude": "-79.972214",
+        "longitude": "9.442675",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 245,
+        "latitude": "131.959991",
+        "longitude": "33.690792",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 246,
+        "latitude": "51.611694",
+        "longitude": "25.932545",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 247,
+        "latitude": "104.170135",
+        "longitude": "1.310745",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 248,
+        "latitude": "-148.755569",
+        "longitude": "41.957523",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 249,
+        "latitude": "-8.233242",
+        "longitude": "43.472054",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 250,
+        "latitude": "101.168304",
+        "longitude": "12.624428",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 251,
+        "latitude": "-58.223927",
+        "longitude": "30.338783",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 252,
+        "latitude": "51.603516",
+        "longitude": "25.935671",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 253,
+        "latitude": "-79.976120",
+        "longitude": "9.484684",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 254,
+        "latitude": "-110.398865",
+        "longitude": "24.233835",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 255,
+        "latitude": "55.215229",
+        "longitude": "-20.939919",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 256,
+        "latitude": "51.878048",
+        "longitude": "25.858990",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 257,
+        "latitude": "10.662853",
+        "longitude": "57.415062",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 258,
+        "latitude": "48.160767",
+        "longitude": "29.073015",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 259,
+        "latitude": "103.702003",
+        "longitude": "1.174566",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 260,
+        "latitude": "144.399185",
+        "longitude": "13.559570",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 261,
+        "latitude": "31.709797",
+        "longitude": "31.599258",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 262,
+        "latitude": "-79.524536",
+        "longitude": "8.827378",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 263,
+        "latitude": "116.065506",
+        "longitude": "6.112710",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 264,
+        "latitude": "151.632431",
+        "longitude": "-23.849895",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 265,
+        "latitude": "130.701523",
+        "longitude": "-12.281033",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 266,
+        "latitude": "144.395294",
+        "longitude": "13.554767",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 267,
+        "latitude": "130.513596",
+        "longitude": "-12.204449",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 268,
+        "latitude": "55.215252",
+        "longitude": "-20.939915",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 269,
+        "latitude": "48.161003",
+        "longitude": "29.072880",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 270,
+        "latitude": "55.215275",
+        "longitude": "-20.939915",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 271,
+        "latitude": "125.056458",
+        "longitude": "1.185049",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 272,
+        "latitude": "51.756264",
+        "longitude": "25.831614",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 273,
+        "latitude": "54.966869",
+        "longitude": "15.867006",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 274,
+        "latitude": "51.894619",
+        "longitude": "25.822897",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 275,
+        "latitude": "-6.092007",
+        "longitude": "-6.682028",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 276,
+        "latitude": "55.215408",
+        "longitude": "-20.939590",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 277,
+        "latitude": "51.617485",
+        "longitude": "25.933695",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 278,
+        "latitude": "51.776695",
+        "longitude": "25.861040",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 279,
+        "latitude": "25.690447",
+        "longitude": "-33.877510",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 280,
+        "latitude": "-116.851303",
+        "longitude": "31.985100",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 281,
+        "latitude": "-6.632408",
+        "longitude": "36.548065",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 282,
+        "latitude": "-96.776627",
+        "longitude": "14.667168",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 283,
+        "latitude": "-79.930237",
+        "longitude": "9.431083",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 284,
+        "latitude": "103.713257",
+        "longitude": "1.166553",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 285,
+        "latitude": "51.856346",
+        "longitude": "25.843937",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 286,
+        "latitude": "23.395094",
+        "longitude": "37.955612",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 287,
+        "latitude": "119.805725",
+        "longitude": "35.542698",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 288,
+        "latitude": "51.796398",
+        "longitude": "25.872622",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 289,
+        "latitude": "103.830605",
+        "longitude": "1.468161",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 290,
+        "latitude": "-79.498917",
+        "longitude": "8.819056",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 291,
+        "latitude": "140.999557",
+        "longitude": "38.094730",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 292,
+        "latitude": "129.364029",
+        "longitude": "37.174309",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 293,
+        "latitude": "7.146820",
+        "longitude": "4.426374",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 294,
+        "latitude": "51.856503",
+        "longitude": "25.829296",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 295,
+        "latitude": "51.894585",
+        "longitude": "25.820696",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 296,
+        "latitude": "48.620445",
+        "longitude": "28.740078",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 297,
+        "latitude": "0.702034",
+        "longitude": "51.432152",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 298,
+        "latitude": "51.611523",
+        "longitude": "25.932621",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 299,
+        "latitude": "11.514793",
+        "longitude": "57.786179",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 300,
+        "latitude": "116.368744",
+        "longitude": "22.924328",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 301,
+        "latitude": "51.859558",
+        "longitude": "25.859013",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 302,
+        "latitude": "55.215405",
+        "longitude": "-20.939587",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 303,
+        "latitude": "51.857441",
+        "longitude": "25.839367",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 304,
+        "latitude": "124.950012",
+        "longitude": "34.972656",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 305,
+        "latitude": "116.027344",
+        "longitude": "6.091472",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 306,
+        "latitude": "-79.500061",
+        "longitude": "8.849564",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 307,
+        "latitude": "51.617550",
+        "longitude": "25.933359",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 308,
+        "latitude": "58.490307",
+        "longitude": "23.812885",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 309,
+        "latitude": "103.655312",
+        "longitude": "1.299726",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 310,
+        "latitude": "51.878262",
+        "longitude": "25.853949",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 311,
+        "latitude": "101.905685",
+        "longitude": "2.379284",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 312,
+        "latitude": "-79.506897",
+        "longitude": "8.832961",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 313,
+        "latitude": "101.907166",
+        "longitude": "2.364683",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 314,
+        "latitude": "-66.018417",
+        "longitude": "45.195038",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 315,
+        "latitude": "4.901100",
+        "longitude": "43.387680",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 316,
+        "latitude": "7.141350",
+        "longitude": "4.436640",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 317,
+        "latitude": "-79.911026",
+        "longitude": "9.340056",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 318,
+        "latitude": "55.215401",
+        "longitude": "-20.939617",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 319,
+        "latitude": "142.787674",
+        "longitude": "46.393181",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 320,
+        "latitude": "43.195908",
+        "longitude": "-11.681805",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 321,
+        "latitude": "103.686844",
+        "longitude": "1.209244",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 322,
+        "latitude": "103.666534",
+        "longitude": "1.229300",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 323,
+        "latitude": "101.905014",
+        "longitude": "2.378960",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 324,
+        "latitude": "55.270344",
+        "longitude": "25.253670",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 325,
+        "latitude": "51.796558",
+        "longitude": "25.857841",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 326,
+        "latitude": "51.890724",
+        "longitude": "25.843166",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 327,
+        "latitude": "51.617283",
+        "longitude": "25.933575",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 328,
+        "latitude": "-79.499161",
+        "longitude": "8.829209",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 329,
+        "latitude": "-70.835739",
+        "longitude": "42.407784",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 330,
+        "latitude": "115.709915",
+        "longitude": "-32.207970",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 331,
+        "latitude": "51.861324",
+        "longitude": "25.837900",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 332,
+        "latitude": "115.709869",
+        "longitude": "-32.207901",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 333,
+        "latitude": "-79.913315",
+        "longitude": "9.274866",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 334,
+        "latitude": "103.837921",
+        "longitude": "1.469027",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 335,
+        "latitude": "144.388809",
+        "longitude": "13.548565",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 336,
+        "latitude": "91.798676",
+        "longitude": "21.379442",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 337,
+        "latitude": "51.877068",
+        "longitude": "25.843678",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 338,
+        "latitude": "51.790173",
+        "longitude": "25.843658",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 339,
+        "latitude": "128.441483",
+        "longitude": "34.966560",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 340,
+        "latitude": "101.919662",
+        "longitude": "2.326164",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 341,
+        "latitude": "51.892403",
+        "longitude": "25.839432",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 342,
+        "latitude": "104.132675",
+        "longitude": "1.302965",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 343,
+        "latitude": "-97.874527",
+        "longitude": "22.401638",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 344,
+        "latitude": "103.614212",
+        "longitude": "1.138512",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 345,
+        "latitude": "11.011028",
+        "longitude": "57.607094",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 346,
+        "latitude": "144.386734",
+        "longitude": "13.546255",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 347,
+        "latitude": "96.259460",
+        "longitude": "16.594908",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 348,
+        "latitude": "33.137333",
+        "longitude": "69.079330",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 349,
+        "latitude": "-8.250546",
+        "longitude": "43.468391",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 350,
+        "latitude": "51.607704",
+        "longitude": "25.934135",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 351,
+        "latitude": "-2.252621",
+        "longitude": "47.230637",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 352,
+        "latitude": "51.765526",
+        "longitude": "25.806904",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 353,
+        "latitude": "51.604496",
+        "longitude": "25.930614",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 354,
+        "latitude": "103.716873",
+        "longitude": "1.164085",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 355,
+        "latitude": "51.607265",
+        "longitude": "25.934402",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 356,
+        "latitude": "103.726555",
+        "longitude": "1.160349",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 357,
+        "latitude": "51.873802",
+        "longitude": "25.859589",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 358,
+        "latitude": "108.361740",
+        "longitude": "21.588682",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 359,
+        "latitude": "34.706409",
+        "longitude": "-25.889771",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 360,
+        "latitude": "91.818619",
+        "longitude": "21.536280",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 361,
+        "latitude": "101.904800",
+        "longitude": "2.378202",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 362,
+        "latitude": "55.038582",
+        "longitude": "25.394796",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 363,
+        "latitude": "103.676903",
+        "longitude": "1.196873",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 364,
+        "latitude": "2.601631",
+        "longitude": "51.428490",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 365,
+        "latitude": "-16.685490",
+        "longitude": "-22.257679",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 366,
+        "latitude": "122.104675",
+        "longitude": "30.600674",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 367,
+        "latitude": "-95.306427",
+        "longitude": "28.942719",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 368,
+        "latitude": "51.776848",
+        "longitude": "25.856136",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 369,
+        "latitude": "56.552723",
+        "longitude": "25.375538",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 370,
+        "latitude": "43.218853",
+        "longitude": "-11.668610",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 371,
+        "latitude": "-3.385460",
+        "longitude": "50.459488",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 372,
+        "latitude": "43.224884",
+        "longitude": "-11.672123",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 373,
+        "latitude": "115.709900",
+        "longitude": "-32.207867",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 374,
+        "latitude": "30.196100",
+        "longitude": "31.552088",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 375,
+        "latitude": "51.650406",
+        "longitude": "25.899242",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 376,
+        "latitude": "113.061157",
+        "longitude": "3.264442",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 377,
+        "latitude": "55.215302",
+        "longitude": "-20.939896",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 378,
+        "latitude": "126.149490",
+        "longitude": "36.206509",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 379,
+        "latitude": "-16.676617",
+        "longitude": "-22.224163",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 380,
+        "latitude": "53.918190",
+        "longitude": "25.774803",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 381,
+        "latitude": "51.860771",
+        "longitude": "25.824036",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 382,
+        "latitude": "128.622665",
+        "longitude": "34.907902",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 383,
+        "latitude": "56.717922",
+        "longitude": "17.194202",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 384,
+        "latitude": "104.408936",
+        "longitude": "1.538063",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 385,
+        "latitude": "-82.365295",
+        "longitude": "27.871521",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 386,
+        "latitude": "122.090790",
+        "longitude": "29.894199",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 387,
+        "latitude": "-6.898930",
+        "longitude": "36.930523",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 388,
+        "latitude": "9.629272",
+        "longitude": "3.161551",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 389,
+        "latitude": "115.427261",
+        "longitude": "6.541782",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 390,
+        "latitude": "55.215389",
+        "longitude": "-20.939625",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 391,
+        "latitude": "14.521517",
+        "longitude": "45.195625",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 392,
+        "latitude": "-27.981815",
+        "longitude": "-13.005390",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 393,
+        "latitude": "103.710075",
+        "longitude": "1.172981",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 394,
+        "latitude": "-16.236382",
+        "longitude": "28.477041",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 395,
+        "latitude": "103.719093",
+        "longitude": "1.165760",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 396,
+        "latitude": "-116.851074",
+        "longitude": "31.985172",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 397,
+        "latitude": "18.075451",
+        "longitude": "58.893490",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 398,
+        "latitude": "120.267609",
+        "longitude": "22.516817",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 399,
+        "latitude": "103.695419",
+        "longitude": "1.181683",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 400,
+        "latitude": "116.368958",
+        "longitude": "22.924557",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 401,
+        "latitude": "51.890896",
+        "longitude": "25.823215",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 402,
+        "latitude": "104.069336",
+        "longitude": "1.319414",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 403,
+        "latitude": "151.628693",
+        "longitude": "-23.865997",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 404,
+        "latitude": "51.774117",
+        "longitude": "25.843779",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 405,
+        "latitude": "103.623642",
+        "longitude": "1.139017",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 406,
+        "latitude": "51.613491",
+        "longitude": "25.937492",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 407,
+        "latitude": "103.831444",
+        "longitude": "1.473289",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 408,
+        "latitude": "55.215305",
+        "longitude": "-20.939880",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 409,
+        "latitude": "112.873886",
+        "longitude": "3.319338",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 410,
+        "latitude": "127.890961",
+        "longitude": "34.652489",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 411,
+        "latitude": "131.081924",
+        "longitude": "-2.912560",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 412,
+        "latitude": "32.373863",
+        "longitude": "30.333683",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 413,
+        "latitude": "116.754501",
+        "longitude": "-20.605438",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 414,
+        "latitude": "51.874825",
+        "longitude": "25.808466",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 415,
+        "latitude": "-79.956467",
+        "longitude": "9.420467",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 416,
+        "latitude": "91.810905",
+        "longitude": "21.562868",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 417,
+        "latitude": "51.791950",
+        "longitude": "25.860968",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 418,
+        "latitude": "51.613625",
+        "longitude": "25.937325",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 419,
+        "latitude": "-94.637085",
+        "longitude": "29.116764",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 420,
+        "latitude": "103.677559",
+        "longitude": "1.296692",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 421,
+        "latitude": "132.860382",
+        "longitude": "42.766239",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 422,
+        "latitude": "55.215378",
+        "longitude": "-20.939682",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 423,
+        "latitude": "127.778778",
+        "longitude": "34.752789",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 424,
+        "latitude": "10.261703",
+        "longitude": "43.451035",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 425,
+        "latitude": "56.500496",
+        "longitude": "25.270935",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 426,
+        "latitude": "55.215313",
+        "longitude": "-20.939850",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 427,
+        "latitude": "144.174393",
+        "longitude": "13.729671",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 428,
+        "latitude": "98.430786",
+        "longitude": "12.675014",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 429,
+        "latitude": "-79.946091",
+        "longitude": "9.430116",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 430,
+        "latitude": "127.799255",
+        "longitude": "34.755161",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 431,
+        "latitude": "129.405762",
+        "longitude": "35.481644",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 432,
+        "latitude": "139.965012",
+        "longitude": "35.472790",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 433,
+        "latitude": "51.810169",
+        "longitude": "25.790188",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 434,
+        "latitude": "127.897400",
+        "longitude": "34.667763",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 435,
+        "latitude": "105.994751",
+        "longitude": "-5.885454",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 436,
+        "latitude": "-79.522293",
+        "longitude": "8.857863",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 437,
+        "latitude": "51.607452",
+        "longitude": "25.934187",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 438,
+        "latitude": "103.716370",
+        "longitude": "1.167353",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 439,
+        "latitude": "85.281174",
+        "longitude": "-3.153416",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 440,
+        "latitude": "103.654419",
+        "longitude": "1.300177",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 441,
+        "latitude": "50.598732",
+        "longitude": "27.666674",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 442,
+        "latitude": "116.405090",
+        "longitude": "22.708488",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 443,
+        "latitude": "-25.676601",
+        "longitude": "37.699268",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 444,
+        "latitude": "107.171082",
+        "longitude": "10.419691",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 445,
+        "latitude": "14.881968",
+        "longitude": "35.815712",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 446,
+        "latitude": "144.368774",
+        "longitude": "31.395584",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 447,
+        "latitude": "-79.580948",
+        "longitude": "8.819067",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 448,
+        "latitude": "-79.538086",
+        "longitude": "8.810804",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 449,
+        "latitude": "51.792263",
+        "longitude": "25.826788",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 450,
+        "latitude": "103.752914",
+        "longitude": "1.165606",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 451,
+        "latitude": "51.647041",
+        "longitude": "25.898121",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 452,
+        "latitude": "115.257278",
+        "longitude": "5.194508",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 453,
+        "latitude": "6.792023",
+        "longitude": "-28.837284",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 454,
+        "latitude": "120.500137",
+        "longitude": "24.252203",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 455,
+        "latitude": "103.694489",
+        "longitude": "1.184814",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 456,
+        "latitude": "-61.722401",
+        "longitude": "10.301744",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 457,
+        "latitude": "115.710037",
+        "longitude": "-32.207752",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 458,
+        "latitude": "144.060913",
+        "longitude": "14.203190",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 459,
+        "latitude": "-93.709061",
+        "longitude": "29.562000",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 460,
+        "latitude": "104.477219",
+        "longitude": "1.715061",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 461,
+        "latitude": "52.886944",
+        "longitude": "25.157183",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 462,
+        "latitude": "103.755524",
+        "longitude": "1.182625",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 463,
+        "latitude": "128.703995",
+        "longitude": "34.887066",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 464,
+        "latitude": "126.731354",
+        "longitude": "-12.221886",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 465,
+        "latitude": "32.603203",
+        "longitude": "29.749493",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 466,
+        "latitude": "116.511292",
+        "longitude": "-20.358006",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 467,
+        "latitude": "-93.334747",
+        "longitude": "30.040257",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 468,
+        "latitude": "106.784302",
+        "longitude": "-5.951263",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 469,
+        "latitude": "55.268768",
+        "longitude": "25.254292",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 470,
+        "latitude": "151.478226",
+        "longitude": "-23.847313",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 471,
+        "latitude": "55.215309",
+        "longitude": "-20.939808",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 472,
+        "latitude": "55.215347",
+        "longitude": "-20.939800",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 473,
+        "latitude": "91.816162",
+        "longitude": "21.557560",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 474,
+        "latitude": "-171.237473",
+        "longitude": "21.174055",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 475,
+        "latitude": "5.294094",
+        "longitude": "59.350876",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 476,
+        "latitude": "2.162838",
+        "longitude": "41.342850",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 477,
+        "latitude": "104.387390",
+        "longitude": "1.698174",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 478,
+        "latitude": "121.455261",
+        "longitude": "32.554001",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 479,
+        "latitude": "55.215347",
+        "longitude": "-20.939785",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 480,
+        "latitude": "-4.461742",
+        "longitude": "48.383980",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 481,
+        "latitude": "55.215347",
+        "longitude": "-20.939754",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 482,
+        "latitude": "51.599579",
+        "longitude": "25.933065",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 483,
+        "latitude": "51.874886",
+        "longitude": "25.863388",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 484,
+        "latitude": "48.369030",
+        "longitude": "29.046137",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 485,
+        "latitude": "67.301880",
+        "longitude": "24.772261",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 486,
+        "latitude": "127.198380",
+        "longitude": "32.174465",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 487,
+        "latitude": "104.227539",
+        "longitude": "1.319206",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 488,
+        "latitude": "25.354034",
+        "longitude": "69.621246",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 489,
+        "latitude": "103.688461",
+        "longitude": "1.187664",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 490,
+        "latitude": "104.405769",
+        "longitude": "1.581125",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 491,
+        "latitude": "51.890457",
+        "longitude": "25.826756",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 492,
+        "latitude": "-19.406254",
+        "longitude": "16.135021",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 493,
+        "latitude": "51.858727",
+        "longitude": "25.808020",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 494,
+        "latitude": "55.271782",
+        "longitude": "25.252235",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 495,
+        "latitude": "128.798233",
+        "longitude": "34.848217",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 496,
+        "latitude": "2.854614",
+        "longitude": "63.371243",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 497,
+        "latitude": "-116.851059",
+        "longitude": "31.985157",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 498,
+        "latitude": "135.310959",
+        "longitude": "34.407120",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 499,
+        "latitude": "151.630798",
+        "longitude": "-23.887550",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 500,
+        "latitude": "55.215389",
+        "longitude": "-20.939655",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 501,
+        "latitude": "-27.980183",
+        "longitude": "-13.009766",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 502,
+        "latitude": "-4.570084",
+        "longitude": "50.035606",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 503,
+        "latitude": "116.999695",
+        "longitude": "-20.173450",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 504,
+        "latitude": "4.079189",
+        "longitude": "51.967922",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 505,
+        "latitude": "9.438480",
+        "longitude": "-30.000229",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 506,
+        "latitude": "-61.701908",
+        "longitude": "10.189440",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 507,
+        "latitude": "103.978104",
+        "longitude": "1.193577",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 508,
+        "latitude": "125.776077",
+        "longitude": "7.016929",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 509,
+        "latitude": "136.710037",
+        "longitude": "34.891529",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 510,
+        "latitude": "-17.842190",
+        "longitude": "7.423130",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 511,
+        "latitude": "103.656616",
+        "longitude": "1.296349",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 512,
+        "latitude": "12.434366",
+        "longitude": "44.506588",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 513,
+        "latitude": "27.526266",
+        "longitude": "60.219082",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 514,
+        "latitude": "-38.651104",
+        "longitude": "-12.869240",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 515,
+        "latitude": "144.026566",
+        "longitude": "14.433643",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 516,
+        "latitude": "116.368729",
+        "longitude": "22.924290",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 517,
+        "latitude": "51.874016",
+        "longitude": "25.843744",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 518,
+        "latitude": "51.856544",
+        "longitude": "25.858471",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 519,
+        "latitude": "9.450756",
+        "longitude": "-29.990814",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 520,
+        "latitude": "142.879883",
+        "longitude": "46.385780",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 521,
+        "latitude": "-116.851074",
+        "longitude": "31.985020",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 522,
+        "latitude": "55.215347",
+        "longitude": "-20.939735",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 523,
+        "latitude": "115.709930",
+        "longitude": "-32.207798",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 524,
+        "latitude": "117.875549",
+        "longitude": "38.925346",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 525,
+        "latitude": "85.565247",
+        "longitude": "11.524999",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 526,
+        "latitude": "-79.498093",
+        "longitude": "8.869613",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 527,
+        "latitude": "14.875395",
+        "longitude": "35.866035",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 528,
+        "latitude": "52.886856",
+        "longitude": "25.157419",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 529,
+        "latitude": "104.346207",
+        "longitude": "1.473082",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 530,
+        "latitude": "-16.167419",
+        "longitude": "28.495403",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 531,
+        "latitude": "51.603653",
+        "longitude": "25.935749",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 532,
+        "latitude": "114.472565",
+        "longitude": "22.538744",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 533,
+        "latitude": "139.820343",
+        "longitude": "35.346489",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 534,
+        "latitude": "55.215382",
+        "longitude": "-20.939732",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 535,
+        "latitude": "113.930664",
+        "longitude": "22.032656",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 536,
+        "latitude": "-79.496674",
+        "longitude": "8.837543",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 537,
+        "latitude": "-68.809555",
+        "longitude": "18.374508",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 538,
+        "latitude": "51.874615",
+        "longitude": "26.078190",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 539,
+        "latitude": "10.656570",
+        "longitude": "57.431240",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 540,
+        "latitude": "117.657776",
+        "longitude": "-19.901508",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 541,
+        "latitude": "116.482178",
+        "longitude": "-20.356976",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 542,
+        "latitude": "51.856117",
+        "longitude": "25.841806",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 543,
+        "latitude": "51.875195",
+        "longitude": "25.841097",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 544,
+        "latitude": "101.864769",
+        "longitude": "11.260617",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 545,
+        "latitude": "32.275475",
+        "longitude": "31.408920",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 546,
+        "latitude": "51.603477",
+        "longitude": "25.935795",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 547,
+        "latitude": "131.829041",
+        "longitude": "37.019211",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 548,
+        "latitude": "101.969940",
+        "longitude": "2.308260",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 549,
+        "latitude": "55.215351",
+        "longitude": "-20.939411",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 550,
+        "latitude": "51.860653",
+        "longitude": "25.821194",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 551,
+        "latitude": "127.905563",
+        "longitude": "34.653870",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 552,
+        "latitude": "129.075867",
+        "longitude": "34.999321",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 553,
+        "latitude": "116.029022",
+        "longitude": "6.064099",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 554,
+        "latitude": "146.937973",
+        "longitude": "-9.308430",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 555,
+        "latitude": "103.706863",
+        "longitude": "1.171597",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 556,
+        "latitude": "-0.101784",
+        "longitude": "36.007965",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 557,
+        "latitude": "32.276043",
+        "longitude": "31.393284",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 558,
+        "latitude": "-79.534393",
+        "longitude": "8.830968",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 559,
+        "latitude": "-8.239422",
+        "longitude": "43.464005",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 560,
+        "latitude": "0.708179",
+        "longitude": "51.432384",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 561,
+        "latitude": "2.200745",
+        "longitude": "41.300865",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 562,
+        "latitude": "3.990799",
+        "longitude": "51.975479",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 563,
+        "latitude": "57.451263",
+        "longitude": "-20.149818",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 564,
+        "latitude": "139.739365",
+        "longitude": "35.469830",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 565,
+        "latitude": "51.858234",
+        "longitude": "25.825878",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 566,
+        "latitude": "32.583576",
+        "longitude": "29.772591",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 567,
+        "latitude": "-4.857738",
+        "longitude": "36.087662",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 568,
+        "latitude": "121.432800",
+        "longitude": "32.549019",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 569,
+        "latitude": "143.919601",
+        "longitude": "14.547117",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 570,
+        "latitude": "-69.391449",
+        "longitude": "12.258073",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 571,
+        "latitude": "103.672943",
+        "longitude": "1.300453",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 572,
+        "latitude": "139.718231",
+        "longitude": "35.460884",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 573,
+        "latitude": "112.947678",
+        "longitude": "3.386990",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 574,
+        "latitude": "52.974014",
+        "longitude": "25.096512",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 575,
+        "latitude": "55.243332",
+        "longitude": "-20.924534",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 576,
+        "latitude": "51.790535",
+        "longitude": "25.856102",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 577,
+        "latitude": "51.792049",
+        "longitude": "25.873455",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 578,
+        "latitude": "101.905571",
+        "longitude": "2.378185",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 579,
+        "latitude": "-96.867172",
+        "longitude": "27.805874",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 580,
+        "latitude": "126.781815",
+        "longitude": "36.997726",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 581,
+        "latitude": "-27.981739",
+        "longitude": "-13.005508",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 582,
+        "latitude": "-8.192043",
+        "longitude": "43.471214",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 583,
+        "latitude": "55.067627",
+        "longitude": "25.031609",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 584,
+        "latitude": "115.522842",
+        "longitude": "-20.926800",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 585,
+        "latitude": "130.915131",
+        "longitude": "-12.509033",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 586,
+        "latitude": "-79.930679",
+        "longitude": "9.473257",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 587,
+        "latitude": "51.858231",
+        "longitude": "25.842787",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 588,
+        "latitude": "-5.404339",
+        "longitude": "36.158840",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 589,
+        "latitude": "109.528885",
+        "longitude": "21.436295",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 590,
+        "latitude": "54.935188",
+        "longitude": "25.535236",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 591,
+        "latitude": "128.435684",
+        "longitude": "34.949097",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 592,
+        "latitude": "4.854366",
+        "longitude": "43.450848",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 593,
+        "latitude": "-0.224186",
+        "longitude": "35.835083",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 594,
+        "latitude": "9.990086",
+        "longitude": "43.644875",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 595,
+        "latitude": "4.073227",
+        "longitude": "51.971539",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 596,
+        "latitude": "151.197235",
+        "longitude": "-23.782616",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 597,
+        "latitude": "55.215324",
+        "longitude": "-20.939381",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 598,
+        "latitude": "51.812317",
+        "longitude": "25.850498",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 599,
+        "latitude": "127.980408",
+        "longitude": "26.365654",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 600,
+        "latitude": "139.823639",
+        "longitude": "35.340221",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 601,
+        "latitude": "51.613743",
+        "longitude": "25.937252",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 602,
+        "latitude": "19.104725",
+        "longitude": "70.900177",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 603,
+        "latitude": "18.415577",
+        "longitude": "-33.823112",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 604,
+        "latitude": "-8.229439",
+        "longitude": "43.475456",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 605,
+        "latitude": "14.459747",
+        "longitude": "-22.816120",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 606,
+        "latitude": "51.806870",
+        "longitude": "25.826275",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 607,
+        "latitude": "130.849701",
+        "longitude": "33.989647",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 608,
+        "latitude": "110.061935",
+        "longitude": "19.964054",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 609,
+        "latitude": "116.606644",
+        "longitude": "-15.974041",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 610,
+        "latitude": "21.139252",
+        "longitude": "55.663116",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 611,
+        "latitude": "51.855724",
+        "longitude": "25.825298",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 612,
+        "latitude": "139.680237",
+        "longitude": "35.410099",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 613,
+        "latitude": "103.702126",
+        "longitude": "1.177982",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 614,
+        "latitude": "-1.014469",
+        "longitude": "37.550346",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 615,
+        "latitude": "123.278549",
+        "longitude": "-13.747139",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 616,
+        "latitude": "-93.828049",
+        "longitude": "29.653282",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 617,
+        "latitude": "51.893509",
+        "longitude": "25.780226",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 618,
+        "latitude": "51.857132",
+        "longitude": "25.804466",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 619,
+        "latitude": "116.480881",
+        "longitude": "-20.330753",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 620,
+        "latitude": "128.697540",
+        "longitude": "34.881611",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 621,
+        "latitude": "143.924377",
+        "longitude": "14.592634",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 622,
+        "latitude": "-27.982449",
+        "longitude": "-13.004086",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 623,
+        "latitude": "109.054108",
+        "longitude": "19.779821",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 624,
+        "latitude": "51.855824",
+        "longitude": "25.861324",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 625,
+        "latitude": "103.834976",
+        "longitude": "1.471203",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 626,
+        "latitude": "51.789719",
+        "longitude": "25.824507",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 627,
+        "latitude": "103.667770",
+        "longitude": "1.199011",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 628,
+        "latitude": "104.408722",
+        "longitude": "1.542116",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 629,
+        "latitude": "55.240829",
+        "longitude": "-20.896587",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 630,
+        "latitude": "101.905304",
+        "longitude": "2.376797",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 631,
+        "latitude": "115.710861",
+        "longitude": "-32.206978",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 632,
+        "latitude": "-76.029221",
+        "longitude": "37.655903",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 633,
+        "latitude": "-5.081627",
+        "longitude": "51.692608",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 634,
+        "latitude": "-6.559158",
+        "longitude": "36.419819",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 635,
+        "latitude": "51.873974",
+        "longitude": "25.825287",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 636,
+        "latitude": "103.672462",
+        "longitude": "1.232716",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 637,
+        "latitude": "19.102154",
+        "longitude": "70.899139",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 638,
+        "latitude": "55.177258",
+        "longitude": "-20.680393",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 639,
+        "latitude": "-95.117615",
+        "longitude": "28.849030",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 640,
+        "latitude": "104.371384",
+        "longitude": "1.474035",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 641,
+        "latitude": "14.895599",
+        "longitude": "36.002941",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 642,
+        "latitude": "139.966827",
+        "longitude": "35.473015",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 643,
+        "latitude": "105.116150",
+        "longitude": "1.962639",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 644,
+        "latitude": "139.738815",
+        "longitude": "35.469936",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 645,
+        "latitude": "140.625824",
+        "longitude": "36.478905",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 646,
+        "latitude": "120.832428",
+        "longitude": "14.535071",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 647,
+        "latitude": "-8.789143",
+        "longitude": "38.472015",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 648,
+        "latitude": "-36.860538",
+        "longitude": "-10.836027",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 649,
+        "latitude": "12.426277",
+        "longitude": "45.160698",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 650,
+        "latitude": "128.805817",
+        "longitude": "34.889641",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 651,
+        "latitude": "-80.112991",
+        "longitude": "10.846617",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 652,
+        "latitude": "51.860271",
+        "longitude": "25.842724",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 653,
+        "latitude": "51.858799",
+        "longitude": "25.838257",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 654,
+        "latitude": "52.887306",
+        "longitude": "25.156876",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 655,
+        "latitude": "-56.709568",
+        "longitude": "-34.813984",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 656,
+        "latitude": "1.669285",
+        "longitude": "51.603695",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 657,
+        "latitude": "-93.746719",
+        "longitude": "29.008223",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 658,
+        "latitude": "14.540440",
+        "longitude": "35.840034",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 659,
+        "latitude": "128.698410",
+        "longitude": "34.885372",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 660,
+        "latitude": "19.106342",
+        "longitude": "70.907532",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 661,
+        "latitude": "55.240841",
+        "longitude": "-20.896549",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 662,
+        "latitude": "101.915085",
+        "longitude": "2.328232",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 663,
+        "latitude": "126.774490",
+        "longitude": "37.003571",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 664,
+        "latitude": "113.842163",
+        "longitude": "22.501093",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 665,
+        "latitude": "127.979614",
+        "longitude": "34.616028",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 666,
+        "latitude": "-79.497879",
+        "longitude": "8.844604",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 667,
+        "latitude": "-75.556274",
+        "longitude": "10.290361",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 668,
+        "latitude": "55.243328",
+        "longitude": "-20.924519",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 669,
+        "latitude": "54.891052",
+        "longitude": "25.243879",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 670,
+        "latitude": "51.808090",
+        "longitude": "25.856934",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 671,
+        "latitude": "103.833801",
+        "longitude": "1.470964",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 672,
+        "latitude": "48.160889",
+        "longitude": "29.072830",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 673,
+        "latitude": "-7.108822",
+        "longitude": "46.824348",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 674,
+        "latitude": "128.438721",
+        "longitude": "34.964603",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 675,
+        "latitude": "112.876434",
+        "longitude": "3.242567",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 676,
+        "latitude": "-79.557114",
+        "longitude": "8.834861",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 677,
+        "latitude": "-8.223263",
+        "longitude": "43.473145",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 678,
+        "latitude": "55.243259",
+        "longitude": "-20.924622",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 679,
+        "latitude": "3.498295",
+        "longitude": "52.018082",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 680,
+        "latitude": "55.250805",
+        "longitude": "-20.896648",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 681,
+        "latitude": "103.607399",
+        "longitude": "1.138893",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 682,
+        "latitude": "55.251019",
+        "longitude": "-20.896008",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 683,
+        "latitude": "51.859619",
+        "longitude": "25.855719",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 684,
+        "latitude": "129.451920",
+        "longitude": "35.515282",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 685,
+        "latitude": "-95.216705",
+        "longitude": "28.801498",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 686,
+        "latitude": "104.729965",
+        "longitude": "1.890564",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 687,
+        "latitude": "-79.951508",
+        "longitude": "9.496606",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 688,
+        "latitude": "128.719269",
+        "longitude": "34.890537",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 689,
+        "latitude": "54.325974",
+        "longitude": "15.399536",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 690,
+        "latitude": "-79.944473",
+        "longitude": "9.512411",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 691,
+        "latitude": "51.775581",
+        "longitude": "25.874870",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 692,
+        "latitude": "103.863914",
+        "longitude": "1.460171",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 693,
+        "latitude": "51.792824",
+        "longitude": "25.774214",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 694,
+        "latitude": "136.567505",
+        "longitude": "31.238163",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 695,
+        "latitude": "51.794029",
+        "longitude": "25.839977",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 696,
+        "latitude": "51.611462",
+        "longitude": "25.932755",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 697,
+        "latitude": "143.931839",
+        "longitude": "14.599597",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 698,
+        "latitude": "51.613426",
+        "longitude": "25.937225",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 699,
+        "latitude": "48.410042",
+        "longitude": "28.717583",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 700,
+        "latitude": "-8.224281",
+        "longitude": "43.473480",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 701,
+        "latitude": "-93.252823",
+        "longitude": "29.257231",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 702,
+        "latitude": "51.874550",
+        "longitude": "25.822079",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 703,
+        "latitude": "151.628265",
+        "longitude": "-23.845459",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 704,
+        "latitude": "22.051178",
+        "longitude": "37.044056",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 705,
+        "latitude": "128.790558",
+        "longitude": "34.869816",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 706,
+        "latitude": "116.033569",
+        "longitude": "6.087846",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 707,
+        "latitude": "3.212864",
+        "longitude": "51.353298",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 708,
+        "latitude": "51.613457",
+        "longitude": "25.937641",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 709,
+        "latitude": "-27.983501",
+        "longitude": "-13.002701",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 710,
+        "latitude": "115.711761",
+        "longitude": "-32.206661",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 711,
+        "latitude": "103.756973",
+        "longitude": "1.170101",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 712,
+        "latitude": "55.251019",
+        "longitude": "-20.895290",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 713,
+        "latitude": "51.892567",
+        "longitude": "25.821487",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 714,
+        "latitude": "118.245331",
+        "longitude": "38.801254",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 715,
+        "latitude": "10.662735",
+        "longitude": "57.666065",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 716,
+        "latitude": "55.250961",
+        "longitude": "-20.896244",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 717,
+        "latitude": "-38.746174",
+        "longitude": "-3.464146",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 718,
+        "latitude": "116.034790",
+        "longitude": "6.077926",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 719,
+        "latitude": "104.405670",
+        "longitude": "1.578747",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 720,
+        "latitude": "51.792465",
+        "longitude": "25.890411",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 721,
+        "latitude": "20.790094",
+        "longitude": "55.783848",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 722,
+        "latitude": "55.250870",
+        "longitude": "-20.896442",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 723,
+        "latitude": "116.025269",
+        "longitude": "6.118161",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 724,
+        "latitude": "3.151062",
+        "longitude": "36.831421",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 725,
+        "latitude": "115.713211",
+        "longitude": "-32.206688",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 726,
+        "latitude": "103.720016",
+        "longitude": "1.162590",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 727,
+        "latitude": "55.250942",
+        "longitude": "-20.896290",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 728,
+        "latitude": "34.671158",
+        "longitude": "27.463280",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 729,
+        "latitude": "2.647793",
+        "longitude": "51.432503",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 730,
+        "latitude": "104.938179",
+        "longitude": "1.454102",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 731,
+        "latitude": "139.632996",
+        "longitude": "35.400581",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 732,
+        "latitude": "111.108185",
+        "longitude": "4.189144",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 733,
+        "latitude": "128.468933",
+        "longitude": "34.989391",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 734,
+        "latitude": "55.251064",
+        "longitude": "-20.895721",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 735,
+        "latitude": "55.255013",
+        "longitude": "-20.876545",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 736,
+        "latitude": "-95.189713",
+        "longitude": "28.772095",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 737,
+        "latitude": "103.765335",
+        "longitude": "1.178787",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 738,
+        "latitude": "142.657974",
+        "longitude": "46.397636",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 739,
+        "latitude": "116.745834",
+        "longitude": "-20.497692",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 740,
+        "latitude": "128.826569",
+        "longitude": "34.854710",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 741,
+        "latitude": "51.810589",
+        "longitude": "25.856236",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 742,
+        "latitude": "-93.615723",
+        "longitude": "29.396778",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 743,
+        "latitude": "51.858547",
+        "longitude": "25.820709",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 744,
+        "latitude": "117.875366",
+        "longitude": "38.927650",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 745,
+        "latitude": "-93.699341",
+        "longitude": "29.395264",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 746,
+        "latitude": "126.781097",
+        "longitude": "36.998711",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 747,
+        "latitude": "-93.335434",
+        "longitude": "30.037733",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 748,
+        "latitude": "144.172104",
+        "longitude": "15.028326",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 749,
+        "latitude": "-79.505875",
+        "longitude": "8.845528",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 750,
+        "latitude": "10.530243",
+        "longitude": "55.470055",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 751,
+        "latitude": "118.638901",
+        "longitude": "38.894825",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 752,
+        "latitude": "55.267387",
+        "longitude": "-20.896503",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 753,
+        "latitude": "140.517807",
+        "longitude": "20.608625",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 754,
+        "latitude": "51.806408",
+        "longitude": "25.860788",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 755,
+        "latitude": "116.028244",
+        "longitude": "6.101603",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 756,
+        "latitude": "116.522598",
+        "longitude": "-20.335308",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 757,
+        "latitude": "9.886852",
+        "longitude": "44.049919",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 758,
+        "latitude": "-116.851028",
+        "longitude": "31.985126",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 759,
+        "latitude": "115.714310",
+        "longitude": "-32.204769",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 760,
+        "latitude": "151.198044",
+        "longitude": "-23.778172",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 761,
+        "latitude": "1.990704",
+        "longitude": "51.029526",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 762,
+        "latitude": "51.790985",
+        "longitude": "25.821482",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 763,
+        "latitude": "29.464180",
+        "longitude": "40.714828",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 764,
+        "latitude": "4.205563",
+        "longitude": "51.978363",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 765,
+        "latitude": "-79.589050",
+        "longitude": "8.981256",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 766,
+        "latitude": "-79.921188",
+        "longitude": "9.205871",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 767,
+        "latitude": "102.093353",
+        "longitude": "2.253153",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 768,
+        "latitude": "113.549744",
+        "longitude": "22.950865",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 769,
+        "latitude": "55.243053",
+        "longitude": "-20.792313",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 770,
+        "latitude": "103.723450",
+        "longitude": "1.160061",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 771,
+        "latitude": "-96.905197",
+        "longitude": "27.826057",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 772,
+        "latitude": "57.741917",
+        "longitude": "19.662588",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 773,
+        "latitude": "73.494926",
+        "longitude": "4.325003",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 774,
+        "latitude": "122.828857",
+        "longitude": "38.351067",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 775,
+        "latitude": "151.509247",
+        "longitude": "-23.842117",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 776,
+        "latitude": "116.039566",
+        "longitude": "6.124456",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 777,
+        "latitude": "55.321033",
+        "longitude": "-20.865963",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 778,
+        "latitude": "56.549744",
+        "longitude": "26.318531",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 779,
+        "latitude": "153.316574",
+        "longitude": "-18.122974",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 780,
+        "latitude": "-95.165085",
+        "longitude": "28.866018",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 781,
+        "latitude": "103.699524",
+        "longitude": "1.181017",
+        "isLNG": true,
+        "IN": false
+    },
+    {
+        "code": 782,
+        "latitude": "32.293808",
+        "longitude": "31.400990",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 783,
+        "latitude": "14.943100",
+        "longitude": "35.906693",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 784,
+        "latitude": "27.994181",
+        "longitude": "40.985748",
+        "isLNG": true,
+        "IN": true
+    },
+    {
+        "code": 785,
+        "latitude": "-157.963699",
+        "longitude": "21.085020",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 786,
+        "latitude": "116.007294",
+        "longitude": "6.103605",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 787,
+        "latitude": "103.680939",
+        "longitude": "1.192926",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 788,
+        "latitude": "51.806980",
+        "longitude": "25.843708",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 789,
+        "latitude": "134.589737",
+        "longitude": "34.721867",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 790,
+        "latitude": "-93.635254",
+        "longitude": "29.416962",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 791,
+        "latitude": "72.328026",
+        "longitude": "71.366951",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 792,
+        "latitude": "-3.119808",
+        "longitude": "43.398895",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 793,
+        "latitude": "55.266239",
+        "longitude": "25.250023",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 794,
+        "latitude": "-76.467239",
+        "longitude": "-13.276222",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 795,
+        "latitude": "-27.985012",
+        "longitude": "-13.000446",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 796,
+        "latitude": "97.398148",
+        "longitude": "5.294725",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 797,
+        "latitude": "-79.872940",
+        "longitude": "9.461939",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 798,
+        "latitude": "51.791569",
+        "longitude": "25.805285",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 799,
+        "latitude": "119.764572",
+        "longitude": "15.008882",
+        "isLNG": false,
+        "IN": false
+    },
+    {
+        "code": 800,
+        "latitude": "51.776352",
+        "longitude": "25.908665",
+        "isLNG": false,
+        "IN": false
+    }
+]
