@@ -24,11 +24,11 @@ long_positive_max = pandas_data.iloc[:,0].max()
 long_negative_min = pandas_data.iloc[:,0].min()
 
 #DBScan参数规定
-eps = 0.001
+eps = 1
 min_samples = 5
 
 
-accurate_ratio = 0.1
+accurate_ratio = 0.01
 #聚类结果
 labels = []
 
@@ -79,4 +79,6 @@ for i in np.arange(0, long_negative_min, accurate_ratio):
         labels.append(dbscan.labels_)
         for k, label in enumerate(data):
             print(f"数据点 {k}: 类别 {label}")
+
+
 
