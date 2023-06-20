@@ -20,7 +20,7 @@ def mini_batch_kmeans():
     print("start")
     data = data_loader.load_csv()
 
-
+    '''
     start = time.time()
     print("start")
     clustering_mini_batch_kmeans = MiniBatchKMeans(n_clusters=400, init='random', verbose=1, max_iter=30).fit(data)
@@ -33,10 +33,10 @@ def mini_batch_kmeans():
         pickle.dump(clustering_mini_batch_kmeans, f)
     print("Mini-Batch K-means time:", end - start)
 
-
-    # # 加载保存的模型
-    # with open('mini_batch_kmeans_model.pkl', 'rb') as f:
-    #     clustering_mini_batch_kmeans = pickle.load(f)
+    '''
+    # 加载保存的模型
+    with open('mini_batch_kmeans_model_400.pkl', 'rb') as f:
+        clustering_mini_batch_kmeans = pickle.load(f)
 
     print("总数: ", len(clustering_mini_batch_kmeans.labels_))
     print("聚类中心点数: ", len(clustering_mini_batch_kmeans.cluster_centers_))
